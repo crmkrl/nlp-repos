@@ -1,0 +1,48 @@
+[submodule "Natural-Language-Processing-Projects"]
+	path = Natural-Language-Processing-Projects
+	url = https://github.com/anujvyas/Natural-Language-Processing-Projects.git
+[submodule "Building-a-Simple-Chatbot-in-Python-using-NLTK"]
+	path = Building-a-Simple-Chatbot-in-Python-using-NLTK
+	url = https://github.com/parulnith/Building-a-Simple-Chatbot-in-Python-using-NLTK.git
+[submodule "Voice-Controlled-NLP-Arduino-Car"]
+	path = Voice-Controlled-NLP-Arduino-Car
+	url = https://github.com/sukamal1928/Voice-Controlled-NLP-Arduino-Car.git
+[submodule "AI-NLP-Chatbot"]
+	path = AI-NLP-Chatbot
+	url = https://github.com/amolikvivian/AI-NLP-Chatbot.git
+[submodule "natural-language-processing"]
+	path = natural-language-processing
+	url = https://github.com/baluyotraf/natural-language-processing.git
+[submodule "Chatbot-using-Natural-Language-Processing"]
+	path = Chatbot-using-Natural-Language-Processing
+	url = https://github.com/SamiulGitHubUser/Chatbot-using-Natural-Language-Processing.git
+[submodule "python-gui-chatbot"]
+	path = python-gui-chatbot
+	url = https://github.com/jupiterdv/python-gui-chatbot.git
+[submodule "AI_ChatBot_Python"]
+	path = AI_ChatBot_Python
+	url = https://github.com/FreeBirdsCrew/AI_ChatBot_Python.git
+[submodule "chatbot_verbal"]
+	path = chatbot_verbal
+	url = https://github.com/nitinp14920914/chatbot_verbal.git
+[submodule "NLP_Chatbot"]
+	path = NLP_Chatbot
+	url = https://github.com/VishalShah1999/NLP_Chatbot.git
+[submodule "reply-bot"]
+	path = reply-bot
+	url = https://github.com/laurakoco/reply-bot.git
+[submodule "hands-on-nltk-tutorial"]
+	path = hands-on-nltk-tutorial
+	url = https://github.com/hb20007/hands-on-nltk-tutorial.git
+[submodule "Interview-Chatbot"]
+	path = Interview-Chatbot
+	url = https://github.com/kunal164107/Interview-Chatbot.git
+[submodule "ChatBot_With_Intents"]
+	path = ChatBot_With_Intents
+	url = https://github.com/vishalstark512/ChatBot_With_Intents.git
+[submodule "BalloonShow"]
+	path = BalloonShow
+	url = https://github.com/yulicai/BalloonShow.git
+[submodule "rc-data"]
+	path = rc-data
+	url = https://github.com/deepmind/rc-data.git
