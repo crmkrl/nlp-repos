@@ -46,3 +46,12 @@
 [submodule "rc-data"]
 	path = rc-data
 	url = https://github.com/deepmind/rc-data.git
+[submodule "Quora_Question_Pairs"]
+	path = Quora_Question_Pairs
+	url = https://github.com/KoalaChelsea/Quora_Question_Pairs.git
+[submodule "NLP-Tennis-Bot"]
+	path = NLP-Tennis-Bot
+	url = https://github.com/opeyemibami/NLP-Tennis-Bot.git
+[submodule "Chatbot-from-Movie-Dialogue"]
+	path = Chatbot-from-Movie-Dialogue
+	url = https://github.com/Currie32/Chatbot-from-Movie-Dialogue.git
