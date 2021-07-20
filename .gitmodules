@@ -55,3 +55,6 @@
 [submodule "Chatbot-from-Movie-Dialogue"]
 	path = Chatbot-from-Movie-Dialogue
 	url = https://github.com/Currie32/Chatbot-from-Movie-Dialogue.git
+[submodule "practical_seq2seq"]
+	path = practical_seq2seq
+	url = https://github.com/suriyadeepan/practical_seq2seq.git
